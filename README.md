@@ -45,6 +45,6 @@ Enter the desired number of points in the text box and click the **"Draw"** butt
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT [License](https://github.com/OlaszPL/Finite_element_method/blob/main/LICENSE).
 
 ![obraz](https://github.com/user-attachments/assets/72d2d6a9-a2b6-470c-a43e-7122a7f8295a)
