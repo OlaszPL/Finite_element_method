@@ -4,8 +4,6 @@ This repository contains a Python implementation of the Finite Element Method (F
 
 ![obraz](https://github.com/user-attachments/assets/ed45b92c-41a2-403c-98f0-dccdc8eb8247)
 
-![obraz](https://github.com/user-attachments/assets/72d2d6a9-a2b6-470c-a43e-7122a7f8295a)
-
 ## Overview
 
 The repository includes the following key components:
@@ -48,3 +46,5 @@ Enter the desired number of points in the text box and click the **"Draw"** butt
 ## License
 
 This project is licensed under the MIT License.
+
+![obraz](https://github.com/user-attachments/assets/72d2d6a9-a2b6-470c-a43e-7122a7f8295a)
