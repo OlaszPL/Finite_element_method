@@ -1,6 +1,6 @@
 # Finite Element Method (FEM) for Electromagnetic Potential
 
-This repository contains a Python implementation of the Finite Element Method (FEM) for solving electromagnetic potential problem. The project was developed as part of the Differential Equations course at AGH University of Cracow.
+This repository contains a Python implementation of the Finite Element Method (FEM) for solving electromagnetic potential problem. The project was developed as part of the Differential Equations course at AGH University of Krakow.
 
 ![obraz](https://github.com/user-attachments/assets/ed45b92c-41a2-403c-98f0-dccdc8eb8247)
 
