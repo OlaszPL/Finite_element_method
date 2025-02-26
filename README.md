@@ -20,7 +20,7 @@ Make sure you have the required Python libraries installed. You can install them
 pip install -r requirements.txt
 ```
 
-## Running the Project
+### Running the Project
 
 **Clone the repository:**
 
